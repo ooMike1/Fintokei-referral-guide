@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://oomike1.github.io/fintokei-referral-guide/sitemap.xml
+Sitemap: https://oomike1.github.io/Fintokei-referral-guide/sitemap.xml
